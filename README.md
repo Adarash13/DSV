@@ -47,7 +47,7 @@
 - Adarsh Sainath H (4MH21CS001)
 - Dushyanth J(4MH21CS023)
 - Surya Prakash(4MH21CS106)
-- G.Ravitejas(4MH21CS015)
+- G.Ravitejas(4MH21CS024)
 
 Supervisor
 
